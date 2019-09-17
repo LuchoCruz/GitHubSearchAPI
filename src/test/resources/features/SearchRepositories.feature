@@ -28,7 +28,7 @@ Feature: GitHub Search Repositories API
       | author   | sort                  | per_page |
       #| LuchoCruz| stars                 | 0        |
       | LuchoCruz| stars                 | 1        |
-      | LuchoCruz| forks                 | 2        |
+      #| LuchoCruz| forks                 | 2        |
       #| LuchoCruz| help-wanted-issues    | 3        |
       #| LuchoCruz| updated               | 4        |
       #| LuchoCruz|                       | 5        |
